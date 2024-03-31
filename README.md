@@ -1,4 +1,4 @@
-#windows _ pet _ v2 _ yun（weixin+chatgpt+稳定扩散)
+windows_pet_v2_yun(weixin+chatgpt+stable diffusion)
 虚拟女友微信聊天,根据聊天内容生成女友图片（一位虚拟女友不同的表情在不同的地方做不同的事情),主打一个陪伴。
 
 软件效果如下：![微信图片_20240331154706](https://github.com/dognamepander/windows_pet_v2_yun/assets/119275007/446ee959-048a-429e-a61c-324b7afda816)
