@@ -14,6 +14,6 @@ windows_pet_v2_yun(weixin+chatgpt+stable diffusion)
 
 3.https://blog.csdn.net/k650d/article/details/137028359?spm=1001.2014.3001.5502
 
-软件使用说明：微信发送和接收消息通过模拟鼠标点击实现,软件使用了ChatGPT聊天机器人聊天机器人和稳定扩散ChatGPT。聊天机器人使用了中转api，可自行更改美国石油学会(美国石油协会)或者使用直连api。稳定扩散使用的是吐司的网络api，https://tusiart.com/models。
+软件使用说明：微信发送和接收消息通过模拟鼠标点击实现,软件使用了chatgpt聊天和stable diffusion文生图。chatgpt使用了中转api，可自行更改中转api或者使用直连api。stable diffusio webui api使用的是吐司的网络api，https://tusiart.com/models。
 
-软件其他说明：本项目还有一款chatgpt+本地稳定扩散的项目,在本地部署的项目,如果需要请联系博主。
+软件其他说明：本项目还有一款chatgpt+本地stable diffusion的项目,在本地部署,如果需要请联系博主。
